@@ -6,4 +6,5 @@ This file was created by referring to the link below.
 https://github.com/DavidGogh/installROSPX2  
 
 # install ROS
+git clone 
 ./install_ros_drive_px2.sh  
